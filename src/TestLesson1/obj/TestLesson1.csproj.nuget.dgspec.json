@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TMS\\2) 03.12.2020\\testLesson\\TestLesson\\src\\TestLesson1\\TestLesson1.csproj": {}
+    "D:\\TMS\\testLesson\\src\\TestLesson1\\TestLesson1.csproj": {}
   },
   "projects": {
-    "D:\\TMS\\2) 03.12.2020\\testLesson\\TestLesson\\src\\TestLesson1\\TestLesson1.csproj": {
+    "D:\\TMS\\testLesson\\src\\TestLesson1\\TestLesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TMS\\2) 03.12.2020\\testLesson\\TestLesson\\src\\TestLesson1\\TestLesson1.csproj",
+        "projectUniqueName": "D:\\TMS\\testLesson\\src\\TestLesson1\\TestLesson1.csproj",
         "projectName": "TestLesson1",
-        "projectPath": "D:\\TMS\\2) 03.12.2020\\testLesson\\TestLesson\\src\\TestLesson1\\TestLesson1.csproj",
+        "projectPath": "D:\\TMS\\testLesson\\src\\TestLesson1\\TestLesson1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\TMS\\2) 03.12.2020\\testLesson\\TestLesson\\src\\TestLesson1\\obj\\",
+        "outputPath": "D:\\TMS\\testLesson\\src\\TestLesson1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
