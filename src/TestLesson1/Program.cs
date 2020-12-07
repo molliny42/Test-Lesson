@@ -6,7 +6,7 @@ namespace TestLesson1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Tania!");
+            Console.WriteLine("Hello, вредное кот!");
         }
     }
 }
